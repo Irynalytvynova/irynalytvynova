@@ -4,7 +4,7 @@
 
 Latest YouTube Video
 
-### Language and Tools
+### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA&logoColor=47C5FB)
