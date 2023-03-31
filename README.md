@@ -24,6 +24,11 @@
 ![charlesproxy](https://img.shields.io/badge/-charlesproxy-090909?style=for-the-badge&logo=&logoColor=red)
 ![deftools](https://img.shields.io/badge/-deftools-090909?style=for-the-badge&logo=deftoold&logoColor=red)
 
+## Testing documentation
+- [Bug-Reports](https://github.com/Irynalytvynova/Bug-Reports)
+- [Test-Cases](https://github.com/Irynalytvynova/Test-Cases)
+- [SQL-Queries](https://github.com/Irynalytvynova/SQL-Queries)
+- [Postman-Collections](https://github.com/Irynalytvynova/Postman-Collections)
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/iryna-lytvynova-119778260/)
