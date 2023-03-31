@@ -2,8 +2,6 @@
 
 ## I'm a beginner Quality Assurance Engineer
 
-Latest YouTube Video
-
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
@@ -27,3 +25,4 @@ Latest YouTube Video
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=b4068e)](https://instagram.com/irina.lytvynova?igshid=YmMyMTA2M2Y=)
 [![Youtube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@smart_sport_studio)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irynalytvynova&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
