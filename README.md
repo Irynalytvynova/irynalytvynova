@@ -21,6 +21,9 @@ Latest YouTube Video
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
 ![JRedMine](https://img.shields.io/badge/-RedMine-090909?style=for-the-badge&logo=RedMine&logoColor=red)
 
+### Follow Me
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/iryna-lytvynova-119778260/)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=27ad9)](https://t.me/irilit)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=b4068e)](https://instagram.com/irina.lytvynova?igshid=YmMyMTA2M2Y=)
+[![Youtube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@smart_sport_studio)
 
-
-Follow Me
