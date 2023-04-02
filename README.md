@@ -34,7 +34,7 @@
 
 - [API project Random Dogs (HTML/CSS/JS)](https://github.com/Irynalytvynova/Using-API-Project)
 - [My Resume (HTML/CSS)](https://github.com/Irynalytvynova/Resume-Project)
-- [Telegram Bot FinanceManager (Pyhton)](https://github.com/Irynalytvynova/Telegram-bot-FinanceManager-Python)
+- [Telegram Bot FinanceManager (Python)](https://github.com/Irynalytvynova/Telegram-bot-FinanceManager-Python)
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/iryna-lytvynova-119778260/)
