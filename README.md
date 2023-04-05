@@ -2,7 +2,7 @@
 
 ## I'm a Quality Assurance Engineer
 ## My CV 
-[Link to my CV](https://drive.google.com/file/d/1NK-i1pPyPnVZIvAbhXUWCL3ayB6aYMr9/view)
+[Link to my CV](https://drive.google.com/file/d/1NkTsgKfij5u6Wg9tjf82HSl_UbFdEUP9/view?usp=sharing)
 
 
 ### Languages and Tools
